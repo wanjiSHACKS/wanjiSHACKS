@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on a landing page, a Spotify clone an article.
+- 🔭 I’m currently working on a landing page; a Spotify clone and an article.
 - 🌱 I’m currently learning the three Sciences, Math, English and Business - just to name a few
 - 👯 I’m not really looking on collaborations yet
 - 🤔 I’m not looking for anything right now
